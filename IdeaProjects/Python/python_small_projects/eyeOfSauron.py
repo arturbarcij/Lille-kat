@@ -1,3 +1,4 @@
+#Input
 s = input()
 # Split the string based on "()"
 parts = s.split("()")
