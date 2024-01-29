@@ -1,1 +1,1 @@
-"# quadratic_equation_solver" 
+"# python small projects" 
