@@ -1,3 +1,4 @@
+#print string N times
 n = int(input())
 
 for i in range(n):
