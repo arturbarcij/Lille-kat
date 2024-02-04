@@ -1,3 +1,4 @@
+#for a matrix 2x2
 for n in range(5):
     row1 = input().split()
     row2 = input().split()
