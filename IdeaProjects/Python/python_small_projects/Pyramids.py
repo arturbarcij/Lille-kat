@@ -1,3 +1,4 @@
+#calculate height of a pyramid
 n = int(input())
 height = 0
 currBlocks = 0
