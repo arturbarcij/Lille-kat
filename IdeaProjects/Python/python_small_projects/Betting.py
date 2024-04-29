@@ -1,3 +1,4 @@
+#bet is calculated and printed
 p = int(input())
 
 ratioOne = 100 / p
